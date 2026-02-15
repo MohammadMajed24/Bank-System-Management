@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/libs/crow", // <-- مسار Crow
+                "${workspaceFolder}/libs/asio"  // <-- مسار Asio
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "CROW_USE_STANDALONE_ASIO"
+            ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

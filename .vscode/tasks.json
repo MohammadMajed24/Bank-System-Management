@@ -1,0 +1,40 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe build active file",
+			"command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${fileDirname}\\*.cpp",
+				"${fileDirname}\\Classes\\*.cpp",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"-std=c++17",
+				"-I${workspaceFolder}/libs/crow",
+				"-I${workspaceFolder}/libs/asio",
+				"-I${workspaceFolder}/libs/mysql/include",
+				"-L${workspaceFolder}/libs/mysql/lib",
+				"-DCROW_USE_STANDALONE_ASIO",
+				"-lmswsock",
+				"-lmariadb",
+				"-lws2_32",
+				"-lpthread",
+				"-IC:/msys64/mingw64/include/mariadb",
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\msys64\\ucrt64\\bin\\g++.exe"
+		}
+	]
+}
