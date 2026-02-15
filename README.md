@@ -5,7 +5,7 @@ Hey developers, this is manadory to read this before start coding
 
  2- you should change you GCC compiler to MYSYS2 G++ you can find it C:\\msys64\\ucrt64\\bin\\g++.exe after install MYSYS2 and g++ search to make it 
 
-3- very important important folder .vscode this folder who connects all this file together and conect your code with libraries 
+3- very very important folder .vscode this folder who connects all this file together and conect your code with libraries 
 
  4- you will be face alot and alot of probelm when you start coding but don't worry about it just try to solve 
 
