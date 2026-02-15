@@ -3,6 +3,8 @@ Hey developers, this is manadory to read this before start coding
  
  We use C++ React Tailwind Crow Mysql 
  
+ Don't forget to cd cppreact then npm install 
+ 
  1- we are using crow web framework to create our API, you can find the documentation here: https://crowcpp.org/master/
     you can find all libraries in libs folder 
 
