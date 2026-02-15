@@ -1,4 +1,4 @@
-hey developers, this is manadory to read this before start coding
+Hey developers, this is manadory to read this before start coding
  admin you should put 123456789123 manuly in nationalID column in database to be able to login as admin (I know this is not good but it is just for testing purposes)
  1- we are using crow web framework to create our API, you can find the documentation here: https://crowcpp.org/master/
     you can find all libraries in libs folder 
@@ -17,4 +17,4 @@ hey developers, this is manadory to read this before start coding
     
 7- thank for who work with me in this project and I hope we will work together in the future
 <h1> My name is Mohamad Majed </h1>
-<h1>my team Yossef elzoghby , ahmed mahmoud , mahmoud  abdelsalam </h1>
+<h1>My team Yossef elzoghby , ahmed mahmoud , mahmoud  abdelsalam </h1>
