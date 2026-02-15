@@ -16,5 +16,5 @@ hey developers, this is manadory to read this before start coding
             !  any question don't hesitate to ask me  this my website https://mohamadmajed.ct.ws refresh the website may take 10 seconds to wake up the server
     
 7- thank for who work with me in this project and I hope we will work together in the future
-    <h1> My name is Mohamad Majed </h1>
+<h1> My name is Mohamad Majed </h1>
 <h1>my team Yossef elzoghby , ahmed mahmoud , mahmoud  abdelsalam </h1>
